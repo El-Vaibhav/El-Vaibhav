@@ -1,5 +1,11 @@
 # 💫 About Me:
-I worked as a Summer Intern at ThoughtSpot, looking forward to join as a MTS-2<br>I have a lot of interest in Python and C/C++<br>I have published a core rank conference paper in domain of IoT and ML<br>I am currently in final year at IIIT Pune
+I am a final-year student at IIIT Pune and a former Summer Intern at ThoughtSpot, where I worked on impactful, production-grade systems. I am excited to join ThoughtSpot as an MTS-2, continuing to build scalable and high-performance software.
+
+I have a strong passion for Python and C/C++, with a deep interest in systems, performance optimization, and problem-solving at scale. My experience spans writing clean, efficient code as well as understanding systems from the ground up.
+
+I have also published a core-ranked conference research paper in the domain of IoT and Machine Learning, reflecting my ability to bridge theoretical research with practical engineering.
+
+Driven by curiosity, consistency, and craftsmanship, I strive to build software that is not just correct—but elegant, scalable, and impactful.
 
 
 ## 🌐 Socials:
