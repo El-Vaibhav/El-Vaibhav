@@ -53,6 +53,9 @@ Driven by curiosity, consistency, and craftsmanship, I strive to build software 
 - 💻 Strong in DSA, System Design & Optimization
 - 📊 Worked on real-world anomaly detection systems
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=El-Vaibhav&theme=tokyonight" />
+</p>
 
 # ⚡ Fun Fact:
 I love building systems that are not just fast — but *beautifully optimized* ⚡
