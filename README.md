@@ -22,4 +22,39 @@ Driven by curiosity, consistency, and craftsmanship, I strive to build software 
 </p>
 
 
+# 📈 Contribution Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=El-Vaibhav&theme=tokyo-night" />
+</p>
+
+---
+
+# 🔥 Contribution Metrics:
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=El-Vaibhav&theme=tokyonight" />
+</p>
+
+---
+
+# 👀 Profile Views:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=El-Vaibhav&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🏆 Achievements & Highlights:
+- 🧠 Core-ranked research paper (IoT + ML)
+- ⚡ Built scalable ML + systems projects
+- 🚀 Interned at ThoughtSpot (Production-grade systems)
+- 💻 Strong in DSA, System Design & Optimization
+- 📊 Worked on real-world anomaly detection systems
+
+
+# ⚡ Fun Fact:
+I love building systems that are not just fast — but *beautifully optimized* ⚡
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
